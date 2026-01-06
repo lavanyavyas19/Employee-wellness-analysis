@@ -118,8 +118,6 @@ Employee-Wellness-Analysis/
 ├── notebooks/
 │   └── Employee_Wellness_EDA.ipynb
 │
-├── visuals/
-│   └── charts_and_plots/
 │
 ├── README.md
 ```
